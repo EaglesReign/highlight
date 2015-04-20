@@ -14,7 +14,6 @@ Javascript Syntax Highlighter
 function id(x) { return x; }
 </pre>
 
-<p>Ruby keywords highlighted</p>
 <pre data-language="ruby" class-proof="Homework">
 puts time_3(gets.to_i)
 

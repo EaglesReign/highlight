@@ -1,5 +1,5 @@
 var languages = {
-  javascript: /\b(function|return|var|while|if)\b/g /* ... etc */,
+  javascript: /\b(function|return|var|while|if)\b/g /* ... etc */
   ruby:	      /\b(BEGIN|end|def)\b/g
 };  
 
